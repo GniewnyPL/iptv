@@ -1,1 +1,4 @@
-<iframe src="https://ebd.cda.pl/620x395/598233291" width="620" height="395" style="border:none;" frameBorder="0" scrolling="no" allowfullscreen name="v2" allow="encrypted-media"></iframe>
+#EXTM3U
+#EXTINF:-1 tvg-id="Polsat.pl" tvg-name="Polsat HD" tvg-logo="http://mag.planetapl.tv/stalker_portal/misc/logos/320/60.png" catchup="shift" catchup-days="14" timeshift="14"  group-title="Ogólne:",Polsat HD
+#EXTVLCOPT:http-referrer=https://api.planetapl.tv/getPlaylist/08342982/66916754/hls
+http://api.planetapl.tv/playTV/08342982/66916754/60.m3u8
